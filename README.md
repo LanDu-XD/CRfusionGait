@@ -31,9 +31,12 @@ Millimeter-wave radar  emits linear frequency modulated continuous wave (LFMCW) 
 ### 2.Camera data
 The  raw optical data is presented in the form of video, which can  portray the information of human appearance very well. We  use the deeplabV3+  to detect and  segment the person in raw video. After person detection and  segmentation, we can obtain the silhouette sequence, which is  further compressed to obtain GEIs.
 ## Data Illustration
-updating
+### 1. Radar data
+up![Fig 8](https://user-images.githubusercontent.com/115384654/194760866-50f4c3d6-0ea3-4886-8a23-b929f21b1029.png)
+dating
+### 2. Camera data
+![Fig 7](https://user-images.githubusercontent.com/115384654/194760889-d8e8ad3b-2e2b-4846-b92f-046d2c54cf07.png)
 ## Dataset Statistic
-updating
 ##Citation
 Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is undergoing review.
 updating
