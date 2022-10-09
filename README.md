@@ -1,4 +1,4 @@
-# CRfusionGait: Camera and Radar Sensor Fusion Gait Recognition dataset
+/s# CRfusionGait: Camera and Radar Sensor Fusion Gait Recognition dataset
 CRfusionGait is an open-source gait recognition dataset collected with camera and radar sensors. It can be used to study multi-modality gait recognition and single-modality gait recognition based on radar or camera sensors. Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is undergoing review. Our dataset and codes will be made public in the near future. We hope that our work can serve as a baseline and inspire further research. Following, we introduce the composition and implementation details of this dataset.
 ## Dataset Introduction
 ![Fig 6 new路线图](https://user-images.githubusercontent.com/115384654/194757102-53ec81ba-145c-4e68-a4c0-6e4534f9bfae.png)
@@ -21,3 +21,6 @@ ADC sample time | 40.96us|ADC sample points| 512
 Chirps in one frame | 255| Frame interval| 19.922ms
 Number of consecutive frames | 60 | Duration | 1.195s
 Idle time | 0.005s | Tx/Rx channel| 1/4
+Under these settings, the range resolution of 0.375 m and the velocity resolution of 0.097m/s.
+### 2. Optical Camera
+* The optical camera gait images are collected by BASLER acA1600-60gc industrial cameras. The frame rate of Optical cameras is set to 50 fps, and the resolution of captured images is 1600 x 1200 (width x height).
