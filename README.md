@@ -8,7 +8,7 @@ CRfusionGait is an open-source gait recognition dataset collected with camera an
 ## Dataset Implementation
 ## Hardware Configuration
 ### 1. FMCW Radar
-* Our radar gait data is collected by one TI AWR1843 mmWave radar, which is composed of an AWR1843 Boost EVM(left picture) and a DCA 1000 EVM(rirht picture).
+* Our radar gait data is collected by one TI AWR1843 mmWave radar, which is composed of an AWR1843 Boost EVM(left two pictures) and a DCA 1000 EVM(rirht two pictures).
+![1843](https://user-images.githubusercontent.com/115384654/194759060-b4351388-de3f-467b-ba04-be657d32c000.png)
 
-![1843](https://user-images.githubusercontent.com/115384654/194758322-89397f45-4e4a-4f4d-8bb3-4bbd4941b1f5.png)
 * The parameters of the radars are set as follows:
