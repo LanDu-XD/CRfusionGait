@@ -14,7 +14,7 @@ CRfusionGait is an open-source gait recognition dataset collected with camera an
 * The parameters of the radars are set as follows:
 
 Parameter | Value | Parameter | Value
-----  | ----  | ---- | ----  
+:-: ----  | :-: ----  | :-: ---- | :-: ----  
 Start frequency | 77GHz| Chirp repetition period|78.125us
 Frequency slope | 9.753MHz/us | Chirp duration| 60us
 ADC sample time | 40.96us|ADC sample points| 512
