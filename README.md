@@ -40,6 +40,8 @@ dating
 ![Fig 7](https://user-images.githubusercontent.com/115384654/194760889-d8e8ad3b-2e2b-4846-b92f-046d2c54cf07.png)
 ## Dataset Statistic
 updating
+## Code
+updating
 ## Citation
 Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is undergoing review.
 updating
