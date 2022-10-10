@@ -22,7 +22,7 @@ Chirps in one frame | 255| Frame interval| 19.922ms
 Number of consecutive frames | 60 | Duration | 1.195s
 Idle time | 0.005s | Tx/Rx channel| 1/4
 
-Under these settings, the range resolution of 0.375 m and the velocity resolution of 0.097m/s.
+Under these settings, the range resolution is 0.375 m and the velocity resolution is 0.097m/s.
 #### 2. Optical Camera
 * The optical camera gait images are collected by BASLER acA1600-60gc industrial cameras. The frame rate of Optical cameras is set to 50 fps, and the resolution of captured images is 1600 x 1200 (width x height).
 ### System overview
