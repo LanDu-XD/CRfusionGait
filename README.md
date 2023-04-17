@@ -43,7 +43,7 @@ updating
 The Code will be released soon at https://github.com/YuShi1213/CRfusionGait_pytorch
 ## Citation
 If you use this dataset and code, please cite the following papers
-'''
+```
 @article{shi2023robust,
   title={Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion},
   author={Shi, Yu and Du, Lan and Chen, Xiaoyang and Liao, Xun and Yu, Zengyu and Li, Zenghui and Wang, Chunxin and Xue, Shikun},
@@ -51,4 +51,4 @@ If you use this dataset and code, please cite the following papers
   year={2023},
   publisher={IEEE}
 }
-'''
+```
