@@ -1,5 +1,5 @@
 # CRfusionGait: Camera and Radar Sensor Fusion Gait Recognition dataset
-CRfusionGait is an open-source gait recognition dataset collected with camera and radar sensors. It can be used to study multi-modality gait recognition and single-modality gait recognition based on radar or camera sensors. Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is undergoing review. Our dataset and codes will be made public in the near future. We hope that our work can serve as a baseline and inspire further research. Following, we introduce the composition and implementation details of this dataset.
+CRfusionGait is an open-source gait recognition dataset collected with camera and radar sensors. It can be used to study multi-modality gait recognition and single-modality gait recognition based on radar or camera sensors. Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is online published by IEEE Internet of Things Journal. Our dataset and codes will be made public in the near future. We hope that our work can serve as a baseline and inspire further research. Following, we introduce the composition and implementation details of this dataset.
 ## Dataset Introduction
 ![Fig 6 new路线图](https://user-images.githubusercontent.com/115384654/194757102-53ec81ba-145c-4e68-a4c0-6e4534f9bfae.png)
 *  **121 person:** 121 volunteers of different ages, gender, heights, weights are involved.<br>
@@ -40,7 +40,13 @@ The  raw optical data is presented in the form of video, which can  portray the 
 ## Dataset Statistic
 updating
 ## Code
-updating
+The Code will be released soon at https://github.com/YuShi1213/CRfusionGait_pytorch
 ## Citation
-Our artical "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion" is undergoing review.
-updating
+If you use this dataset and code, please cite the following papers
+@article{shi2023robust,
+  title={Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion},
+  author={Shi, Yu and Du, Lan and Chen, Xiaoyang and Liao, Xun and Yu, Zengyu and Li, Zenghui and Wang, Chunxin and Xue, Shikun},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  publisher={IEEE}
+}
