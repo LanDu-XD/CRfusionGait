@@ -44,11 +44,14 @@ The Code will be released soon at https://github.com/YuShi1213/CRfusionGait_pyto
 ## Citation
 If you use this dataset and code, please cite the following papers
 ```
-@article{shi2023robust,
-  title={Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion},
+@ARTICLE{10045763,
   author={Shi, Yu and Du, Lan and Chen, Xiaoyang and Liao, Xun and Yu, Zengyu and Li, Zenghui and Wang, Chunxin and Xue, Shikun},
-  journal={IEEE Internet of Things Journal},
+  journal={IEEE Internet of Things Journal}, 
+  title={Robust Gait Recognition Based on Deep CNNs With Camera and Radar Sensor Fusion}, 
   year={2023},
-  publisher={IEEE}
-}
+  volume={10},
+  number={12},
+  pages={10817-10832},
+  doi={10.1109/JIOT.2023.3242417}}
+
 ```
