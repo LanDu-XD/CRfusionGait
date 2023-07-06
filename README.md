@@ -40,7 +40,7 @@ The  raw optical data is presented in the form of video, which can  portray the 
 ## Dataset Statistic
 updating
 ## Code
-The Code will be released soon at https://github.com/YuShi1213/CRfusionGait_pytorch
+The Code can be found at https://github.com/YuShi1213/CRfusionGait_pytorch
 ## Citation
 If you use this dataset and code, please cite the following papers
 ```
