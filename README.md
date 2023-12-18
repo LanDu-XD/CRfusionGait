@@ -42,7 +42,7 @@ updating
 ## Code
 The Code can be found at https://github.com/YuShi1213/CRfusionGait_pytorch
 ## How to access the CRfusionGait
-To obtain the dataset, please sign the ![]:https://github.com/LanDu-XD/CRfusionGait/blob/main/Aggrement.pdf "Agreement" by yourself. And additionally:
+To obtain the dataset, please sign the ![Agreement](https://github.com/LanDu-XD/CRfusionGait/blob/main/Aggrement.pdf)  by yourself. And additionally:
 
 *If you are a researcher from China, please ensure that the agreement is stamped with the official seal of your institution.
 *If you are not from China, please ask your director or team leader to sign the agreement.
