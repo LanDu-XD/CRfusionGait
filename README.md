@@ -45,6 +45,7 @@ The Code can be found at https://github.com/YuShi1213/CRfusionGait_pytorch
 To obtain the dataset, please sign the ![Agreement](https://github.com/LanDu-XD/CRfusionGait/blob/main/Aggrement.pdf)  by yourself. And additionally:
 
 *If you are a researcher from China, please ensure that the agreement is stamped with the official seal of your institution.
+
 *If you are not from China, please ask your director or team leader to sign the agreement.
 Once stamped/signed, you can scan and send it to shiyu1213@126.com or dulan@mail.xidian.edu.cn. Then you will receive a notification email that includes the download links of the dataset within seven days. Thank you for your cooperation.
 ## Citation
